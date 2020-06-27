@@ -1,7 +1,7 @@
 ## Pokemon-nextjs
 
-CSR means Client Side Rendering
-SSR means Server Side Rendering
+CSR means Client Side Rendering,
+SSR means Server Side Rendering,
 SSG means Static Site Generators
 
 Name | CSR | SSR | SSG 
